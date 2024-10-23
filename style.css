@@ -43,10 +43,9 @@ legend {
 }
 
 label {
-    background-color: black;
     display: block;
     margin-top: 10px;
-    color: white;
+    color: black;
     font-weight: bold;
 }
 
